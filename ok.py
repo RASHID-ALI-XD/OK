@@ -1,2 +1,3 @@
-from BALOCH import superuser
-superuser()
+import os
+os.system('git pull')
+import baloch
