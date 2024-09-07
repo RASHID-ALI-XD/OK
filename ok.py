@@ -1,2 +1,2 @@
-from BALOCH import superuser
-superuser()
+from baloch import za
+za()
