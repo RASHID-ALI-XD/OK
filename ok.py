@@ -1,3 +1,2 @@
-import os
-os.system('git pull')
-import za
+from BALOCH import superuser
+superuser()
